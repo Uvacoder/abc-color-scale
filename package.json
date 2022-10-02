@@ -2,7 +2,7 @@
   "name": "scale",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hihayk.github.io/scale",
+  "homepage": "https://abc-color-scale.vercel.app",
   "dependencies": {
     "color": "^3.0.0",
     "gh-pages": "^1.2.0",
